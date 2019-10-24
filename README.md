@@ -1,3 +1,2 @@
 # Tec-em-2019
-repositorio para proyectos universitarios 
-probando...
+aplicacion web de biblioteca improvisada para tarea de Tecnologias Emergentes I
