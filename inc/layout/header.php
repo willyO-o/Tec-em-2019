@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>LibroPolis</title>
-    <meta name="description" content="">
+    <meta name="autor" content="Willy marcos chana tito">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
