@@ -75,5 +75,4 @@ if (isset($_GET['salir'])) {
 
 <?php
     require_once 'inc/layout/footer.php';
-
 ?>
